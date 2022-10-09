@@ -336,7 +336,7 @@ export async function handler(chatUpdate) {
                 if (!('autoread' in settings)) settings.autoread = true
                 if (!('restrict' in settings)) settings.restrict = true
             } else global.db.data.settings[this.user.jid] = {
-                self: false,
+                self: true,
                 autoread: true,
                 restrict: true
             }
@@ -693,7 +693,7 @@ export async function participantsUpdate({ id, participants, action }) {
     mediaUrl: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ",
     mediaType: 2, 
     description: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ", 
-    title: 'Oscar-MultiDevice',
+    title: 'GLOSPOT-MD',
     body: wm,
     thumbnail: await(await fetch(action === 'add' ? wel : lea)).buffer(),
     sourceUrl: sgc
