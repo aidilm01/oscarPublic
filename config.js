@@ -47,33 +47,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/glospotbotz?igshid=YmMyMTA2M2Y=' //Link Instagrammu
-global.sgh = 'https://github.com/Glospot' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/Glospot'
+global.sig = 'https://instagram.com/dilzpx_' //Link Instagrammu
+global.sgh = 'https://github.com/aidilm01' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/DILZPXBOT'
 global.sdc = '_'
 global.stg = 'https://instagram.com/glospotbotz?igshid=YmMyMTA2M2Y='
 global.syt = 'https://youtube.com/c/GLOSPOTofficial' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '082340108349' //Nomor Danamu
-global.ppulsa = '082340108349' //Nomor SimCard Yang Kamu Pake
+global.pdana = '081380448281' //Nomor Danamu
+global.ppulsa = '081380448281' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/Glospot' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285391576039' //Nomor Bot
-global.nomorown = '6282340108349' //Nomor Owner
-global.namebot = 'GLOSPOT-MULTIDEVICE'  //Nama Bot
-global.nameown = 'GLOSPOT✓'  // Nama Owner
+global.nomorbot = '6285863251704' //Nomor Bot
+global.nomorown = '6281380448281' //Nomor Owner
+global.namebot = 'DILZPX-BOT'  //Nama Bot
+global.nameown = 'DILZPX✓'  // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282340108349', '❦ GLOSPOT 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281380448281', '❦ DILZPX 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [6282340108349] // Want some help?
-global.prems = [6282340108349] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [6281380448281] // Want some help?
+global.prems = [6281380448281] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 global.lolkey = 'apikeymu'
@@ -101,9 +101,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 GLOSPOT-MD 汉  」' //Main Watermark
-global.wm2 = 'GLOSPOT-MD'
-global.wm3 = '⫹⫺  GLOSPOT-MD'
+global.wm = '                「 DILZPX-BOT 汉  」' //Main Watermark
+global.wm2 = 'DILZPX-BOT'
+global.wm3 = '⫹⫺  DILZPX-BOT'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -369,10 +369,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'GLOSPOT-MD CONTACTS BOT NOMER 6285391576039'
+global.stickpack = 'DILZPX BOT CONTACTS BOT NOMER 6281380448281'
 global.stickauth = `☂︎\nO\nS\nC\nR\nO\nF\C-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'CONTACTS BOT NOMER 6285391576039'
-global.packname2 = 'CONTACTS BOT NOMER 6285391576039'
+global.packname = 'DILZPX BOT NOMER 6281380448281'
+global.packname2 = 'DILZPX NOMER 6281380448281'
 
 global.multiplier = 38 // The higher, The harder levelup
 
